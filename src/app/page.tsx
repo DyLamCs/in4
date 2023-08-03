@@ -6,7 +6,7 @@ import face from "../image/face.svg";
 import ins from "../image/ins.svg";
 import zalo from "../image/zalo.svg";
 import card from "../image/card.gif";
-import avatar from "../image/anhmeo.jpg"
+import avatar from "../image/fb.jpg"
 import "./pagecss.css";
 import Modal from "./modal";
 export default function Home() {
