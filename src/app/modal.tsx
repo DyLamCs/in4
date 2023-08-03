@@ -1,7 +1,7 @@
 "use client";
 import React from "react";
 import Image from "next/image";
-import pament from "../image/payment.png";
+import pament from "../image/payment.jpg";
 import { VscCopy } from "react-icons/vsc";
 import momo from '../image/momo.svg'
 interface propsModal {
