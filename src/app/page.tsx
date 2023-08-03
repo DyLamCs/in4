@@ -50,7 +50,7 @@ export default function Home() {
 					<div className="w-[200px] h-[200px] overflow-hidden rounded-[50%] border-solid bg-slate-500 text-center ">
 						<Image className="max-w-[100%] max-h-[100%] " src={avatar} alt="avatar"></Image>
 					</div>
-					<div className="font-[600] text-[25px] text-center text-black">Trịnh Khánh Duy</div>
+					<div className="font-[600] text-[25px] text-center text-black">Di Lâm</div>
 					<span>😉</span>
 					<div onClick={(e) => clickAddDB(e)} className="bg-slate-950 w-[50%] max-w-[15rem] text-gray-50 flex justify-center items-center rounded-[5px] h-[45px]">
 						<FaUserPlus style={{ marginRight: "5px" }} />
